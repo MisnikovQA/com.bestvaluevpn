@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="37903" started-at="2020-08-28T17:10:25Z" finished-at="2020-08-28T17:11:03Z">
+    <groups>
+    </groups>
+    <test name="F:/com.bestvaluevpn/src/test/java/MainPageTest.java" duration-ms="37903" started-at="2020-08-28T17:10:25Z" finished-at="2020-08-28T17:11:03Z">
+      <class name="MainPageTest">
+        <test-method status="PASS" signature="Table_contains_5_lines_and_clickable()[pri:0, instance:Table_contains_5_lines_and_clickable(MainPageTest)]" name="Table_contains_5_lines_and_clickable" duration-ms="5041" started-at="2020-08-28T20:10:26Z" finished-at="2020-08-28T20:10:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Table_contains_5_lines_and_clickable -->
+        <test-method status="PASS" signature="Scores_and_Starts_are_going_down()[pri:0, instance:Scores_and_Starts_are_going_down(MainPageTest)]" name="Scores_and_Starts_are_going_down" duration-ms="4585" started-at="2020-08-28T20:10:31Z" finished-at="2020-08-28T20:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scores_and_Starts_are_going_down -->
+        <test-method status="PASS" signature="Click_on_the_table_making_calls()[pri:0, instance:Click_on_the_table_making_calls(MainPageTest)]" name="Click_on_the_table_making_calls" duration-ms="7642" started-at="2020-08-28T20:10:36Z" finished-at="2020-08-28T20:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_the_table_making_calls -->
+        <test-method status="PASS" signature="Current_date_site()[pri:0, instance:Current_date_site(MainPageTest)]" name="Current_date_site" duration-ms="4715" started-at="2020-08-28T20:10:44Z" finished-at="2020-08-28T20:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Current_date_site -->
+        <test-method status="PASS" signature="Banner_jumping_after_10_sec_and_clickable()[pri:0, instance:Banner_jumping_after_10_sec_and_clickable(MainPageTest)]" name="Banner_jumping_after_10_sec_and_clickable" duration-ms="14779" started-at="2020-08-28T20:10:48Z" finished-at="2020-08-28T20:11:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Banner_jumping_after_10_sec_and_clickable -->
+      </class> <!-- MainPageTest -->
+    </test> <!-- F:/com.bestvaluevpn/src/test/java/MainPageTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

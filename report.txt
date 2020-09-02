@@ -1,0 +1,8 @@
+---===START 🧐 TEST===---
+Test is (https://bestvaluevpn.com/comparison-chart/) 
+Banner_jumping_after_10sec_and_clickable(MainPageTest)- Good! 👌
+Table_contains_5_lines_and_clickable(MainPageTest)- Good! 👌
+Scores_and_Starts_are_going_down(MainPageTest)- Good! 👌
+Click_on_the_table_making_PB_calls(MainPageTest)- Good! 👌
+Current_date_site(MainPageTest)- Good! 👌
+---===END 🧐 TEST===--- 

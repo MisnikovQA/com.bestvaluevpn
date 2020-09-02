@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]">
+  <test name="F:/com.bestvaluevpn/src/test/java/MainPageTestNG.java(failed)">
+    <classes>
+      <class name="MainPageTestNG">
+        <methods>
+          <include name="Table_contains_5_lines_and_clickable"/>
+          <include name="Click_on_the_table_making_calls"/>
+          <include name="setUp2"/>
+        </methods>
+      </class> <!-- MainPageTestNG -->
+    </classes>
+  </test> <!-- F:/com.bestvaluevpn/src/test/java/MainPageTestNG.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
